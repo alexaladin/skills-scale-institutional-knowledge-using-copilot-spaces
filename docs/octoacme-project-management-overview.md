@@ -20,6 +20,16 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Role Ecosystem
+The following roles complement the core team and contribute to cross-functional project success. Full definitions, responsibilities, and interaction points are documented in [`docs/octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md).
+
+- **UX Designer**: owns user flows, wireframes, prototypes, and user-centric advocacy.
+- **DevOps Engineer**: maintains CI/CD pipelines, automates deployments, monitors system health.
+- **Customer Success**: gathers user feedback, monitors adoption, escalates customer pain points.
+- **Security Engineer**: identifies security risks, reviews code, and enforces security policies.
+- **Business Analyst**: translates business goals into technical requirements and documents workflows.
+- **Data Analyst**: defines metrics, builds dashboards, and analyzes project outcomes.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
